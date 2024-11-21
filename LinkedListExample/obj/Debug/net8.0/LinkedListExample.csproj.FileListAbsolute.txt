@@ -1,0 +1,15 @@
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net8.0\LinkedListExample.exe
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net8.0\LinkedListExample.deps.json
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net8.0\LinkedListExample.runtimeconfig.json
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net8.0\LinkedListExample.dll
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\bin\Debug\net8.0\LinkedListExample.pdb
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.AssemblyInfoInputs.cache
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.AssemblyInfo.cs
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.sourcelink.json
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.dll
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\refint\LinkedListExample.dll
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.pdb
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\LinkedListExample.genruntimeconfig.cache
+C:\Users\Gor\source\repos\LinkedListExample\LinkedListExample\obj\Debug\net8.0\ref\LinkedListExample.dll
