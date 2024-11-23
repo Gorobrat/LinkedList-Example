@@ -1,4 +1,6 @@
-﻿using System;
+﻿using LinkedListExample.Models2;
+using LinkedListExample.Models3;
+using System;
 namespace LinkedListExample
 {
 
@@ -41,6 +43,56 @@ namespace LinkedListExample
             }
 
             Console.WriteLine();
+
+
+            Console.WriteLine(new string ('-',10));
+
+            // new other example 
+
+            var list2=new DuplexLinkedList<int>();
+            list2.Add(1);
+            list2.Add(2);
+            list2.Add(3);
+            list2.Add(4);
+
+            foreach (var item in list2) 
+            {
+                Console.WriteLine(item + " ");
+            }
+
+            Console.WriteLine(new string('*', 10));
+            list2.Delete(3);
+
+            foreach (var item in list2)
+            {
+                Console.WriteLine(item + " ");
+            }
+
+            Console.WriteLine(new string('*', 10));
+            var reverse=list2.Reverse();
+
+            foreach (var item in reverse)
+            {
+                Console.WriteLine(item);
+            }
+
+            //
+            // other example circularList 
+
+
+            Console.WriteLine(new string ('+',10));
+
+            var circularList=new CircularLinkedList<int>();
+            circularList.Add(1);
+            circularList.Add(2);
+            circularList.Add(3);
+            circularList.Add(4);
+            circularList.Add(5);
+
+            foreach (var item in circularList)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

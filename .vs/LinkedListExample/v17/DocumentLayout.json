@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|c:\\users\\gor\\source\\repos\\linkedlistexample\\linkedlistexample\\models3\\circularlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|solutionrelative:linkedlistexample\\models3\\circularlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|c:\\users\\gor\\source\\repos\\linkedlistexample\\linkedlistexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|solutionrelative:linkedlistexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|c:\\users\\gor\\source\\repos\\linkedlistexample\\linkedlistexample\\models\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|solutionrelative:linkedlistexample\\models\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|c:\\users\\gor\\source\\repos\\linkedlistexample\\linkedlistexample\\models2\\duplexlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|solutionrelative:linkedlistexample\\models2\\duplexlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|c:\\users\\gor\\source\\repos\\linkedlistexample\\linkedlistexample\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|solutionrelative:linkedlistexample\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|c:\\users\\gor\\source\\repos\\linkedlistexample\\linkedlistexample\\models2\\duplexitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACE855E-9AF3-4F76-A72B-265DFB7CA32C}|LinkedListExample\\LinkedListExample.csproj|solutionrelative:linkedlistexample\\models2\\duplexitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 622,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,41 +54,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models\\LinkedList.cs",
-              "RelativeDocumentMoniker": "LinkedListExample\\Models\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models\\LinkedList.cs",
-              "RelativeToolTip": "LinkedListExample\\Models\\LinkedList.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwIQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CircularLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models3\\CircularLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListExample\\Models3\\CircularLinkedList.cs",
+              "ToolTip": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models3\\CircularLinkedList.cs",
+              "RelativeToolTip": "LinkedListExample\\Models3\\CircularLinkedList.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:39:09.323Z",
+              "WhenOpened": "2024-11-23T09:59:48.62Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuplexItem.cs",
+              "DocumentMoniker": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models2\\DuplexItem.cs",
+              "RelativeDocumentMoniker": "LinkedListExample\\Models2\\DuplexItem.cs",
+              "ToolTip": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models2\\DuplexItem.cs",
+              "RelativeToolTip": "LinkedListExample\\Models2\\DuplexItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:52:14.22Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "LinkedListExample\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models\\Item.cs",
-              "RelativeToolTip": "LinkedListExample\\Models\\Item.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "Title": "DuplexLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models2\\DuplexLinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListExample\\Models2\\DuplexLinkedList.cs",
+              "ToolTip": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Models2\\DuplexLinkedList.cs",
+              "RelativeToolTip": "LinkedListExample\\Models2\\DuplexLinkedList.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwD0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:38:37.632Z",
+              "WhenOpened": "2024-11-22T17:52:14.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Program.cs",
               "RelativeDocumentMoniker": "LinkedListExample\\Program.cs",
               "ToolTip": "C:\\Users\\Gor\\source\\repos\\LinkedListExample\\LinkedListExample\\Program.cs",
               "RelativeToolTip": "LinkedListExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:35:42.96Z",
+              "WhenOpened": "2024-11-22T17:51:17.802Z",
               "EditorCaption": ""
             }
           ]
